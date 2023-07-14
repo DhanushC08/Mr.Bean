@@ -1,0 +1,36 @@
+.image{
+    height: 550px;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 100px;
+    position: fixed;
+}
+.eye1{
+    border: 1px solid rgb(14, 13, 13);
+    width: 61px;
+    height: 69px;
+    background-color: white;
+    margin-left: 155px;
+    margin-top: 285px;
+    border-radius: 80px 100px 80px 100px;
+    position: fixed;
+}
+.eye2{
+    border: 1px solid rgb(14, 13, 13);
+    width: 61px;
+    height: 69px;
+    background-color: white;
+    margin-left: 365px;
+    margin-top: 282px;
+    border-radius: 80px 100px 80px 100px;
+    position: fixed;
+}
+.ball{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    margin-top: -10px;
+    margin-left: -10px;
+    border-radius: 150px 150px 150px 150px;
+    position: absolute;
+}
